@@ -4,10 +4,8 @@
 * **Course:** [INFSCI2560-24993, University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
-* **Teaching Assistant:** Dimple Dharamsingh Varma, [DDV1@pitt.edu](mailto:DDV1@pitt.edu)
-  * **Office Hours**: Wednesday 11a-1p
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560sp16?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560fa16/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
    * Email for 1-on-1 help, or to set up a time to meet
 
