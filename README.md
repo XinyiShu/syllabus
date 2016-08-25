@@ -1,7 +1,7 @@
 # Web Technologies and Standards Syllabus
 
 
-* **Course:** [INFSCI2560-24993, University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
+* **Course:** [INFSCI2560-1020 (26292), University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
 * **Need help?**
