@@ -4,6 +4,8 @@
 * **Course:** [INFSCI2560-1020 (26292), University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
+* **GSA:** Chun-Hua Tsai (Hyman), [cht77@pitt.edu ](mailto:cht77@pitt.edu )
+  * **Office Hours**: Tue 4-6pm Wed 4-6pm or By Appointment
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560fa16/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
