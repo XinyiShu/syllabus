@@ -140,19 +140,19 @@ Static personal websites or even dynamic read-only sites such as weather-lookup 
 * You must be able to demonstrate the project in person (or virtually) if called upon for grading or to answer project specific questions.
 * You must ensure that your project satisfies all of the individual items in the Courseweb rubric which will be used for grading.
 
-* Assignment 1.1 (Week 2) Getting Started (50 points)
-* Assignment 1.2 (Week 2) Project Proposal (50 points)
-* Assignment 1.3 (Week 5) Project Presentation tier (50 points)
-* Assignment 1.4 (Week 9) Project Logic tier (50 points)
-* Assignment 1.5 (Week 13) Project Data tier (50 points)
-* Assignment 1.6 (Week 14) Final Project Submission (50 points)
+* Assignment 1.1 Getting Started (50 points)
+* Assignment 1.2 Project Proposal (50 points)
+* Assignment 1.3 Presentation tier (50 points)
+* Assignment 1.4 Full Stack Web (100 points)
+* Assignment 1.5 Project Presentation (50 points)
+
 
 
 [**Project 2 – Standards Assessment**](#standards-assessment-project)
-* Assignment 2.1 (Week 3) Standards Assessment Proposal (10 points)
-* Assignment 2.2 (Week 6) Standards Assessment Bibliography (10 points)
-* Assignment 2.3 (Week 10) Standards Assessment Outline (10 points)
-* Assignment 2.4 (Week 12) Standards Assessment Paper (70 points)
+* Assignment 2.1 Standards Assessment Proposal (10 points)
+* Assignment 2.2 Standards Assessment Bibliography (10 points)
+* Assignment 2.3 Standards Assessment Outline (10 points)
+* Assignment 2.4 Standards Assessment Paper (70 points)
 
 >**Requirements**
 
