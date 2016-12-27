@@ -7,9 +7,9 @@
 * **GSA:** TBD
   * **Office Hours**: TBDD
 * **Need help?**
-    * TBD
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-   * Email for 1-on-1 help, or to set up a time to meet
+  * TBD
+    * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
+    * Email for 1-on-1 help, or to set up a time to meet
 
 ## Introduction
 
