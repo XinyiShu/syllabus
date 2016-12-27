@@ -69,30 +69,31 @@ In general, the course will be divided into four parts.
 * In part three, we will explore web mobility and how mobile applications can leverage web technologies.
 * In part four, we will look dig a bit deeper into the web exploring notifications, analytics, and other backend options.
 
-### Course Schedule
+### Course Schedule (Tentative)
+
+_Course Schedule is subject to change._
 
 * Part 1. HTML, CSS and JavaScript
-  * Week 1. Intro – Getting Started with Heroku
+  * Week 1. Intro – Getting Started
     * Managing your code with GitHub
     * Continuous Deployment with Travis-CI
-    * Full Stack Web Development with Heroku
+    * Full Stack Web Development with Spring
+    * Cloud Deployment with Heroku
   * Week 2. Web Basics
-  * Week 3. Styling the Web with CSS
-  * Week 4. Interactive Web with JavaScript
-* Part 2. Server-Side Development and XML
-  * Week 5. Java Fundamentals & Object Oriented Programming
-  * Week 6. Building a Backend – Web Services & JSON
-  * Week 7. Enhanced Backend – XML & Schemas
-  * Week 8. Storing the Data – Database Integration JDBC, JPA, SQL, and NoSQL
-  * Week 9. Caching the Data – In Memory Databases
-* Part 3. Multiplatform Mobile App Development with Web Technologies
-  * Week 10. Responsive Design & Mobility
-  * Week 11. Mobile Clients (Android Development Studio)
-* Part 4. Advanced Topics
-  * Week 12. Push vs. Pull Notifications
-  * Week 13. Other Back ends (NodeJS)
-  * Week 14. Web Analytics
-  * Week 15. Course Wrap-up
+  * Week 3. Technology Session - Git, GitHub, Maven, Travis-CI, and Heroku
+  * Week 4. Java Fundamentals & Object Oriented Programming
+  * Week 5. Building a Backend – Web Services & JSON
+  * Week 6. Enhanced Backend – XML & Schemas
+  * Week 7. Storing the Data – Database Integration JDBC, JPA, SQL, and NoSQL
+  * Week 8. Technology Session - Backend Technologies & Unit Testing
+  * Week 9. Server Template Rendering
+  * Week 10. Styling the Web with CSS and theming with Bootstrap
+  * Week 11. Interactive Web with JavaScript and frameworks (e.g. AngularJS)
+  * Week 12. AJAX and Client Template Rendering
+  * Week 13. Technology Session - Frontend Technologies & Unit Testing
+  * Week 14. Other Back ends (e.g. NodeJS)
+  * Week 15. Mobile Clients (Android Development Studio)
+  * Week 16. Course Wrap-up
 
 ## Assignments
 
