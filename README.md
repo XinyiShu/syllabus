@@ -36,33 +36,24 @@ The most important learning will come from the efforts you undertake beyond the 
 The goals of the course are:
 
 * To understand the base technologies that are being used in modern development and deployment of information and applications to the World Wide Web.
-
 * To analyze functional needs for web systems and design web components and full stack systems to meet these needs in a reliable way.
-
 * To develop a standards compliant website.
-
 * To develop major components of a website such as forms, web services, persistent stores, etc.
-
 * To understand and follow trends in the development of web technologies and standards including continous integration and deployment.
-
 * To define the basic characteristics of standards, define the processes by which standards are developed, and to experience the process of designing/programming information systems in accord with some standard.
 
 ## Course Materials
 
-The recommended textbooks for this course are:
+The **recommended** textbooks for this course are:
 
 * __Beginning XML, 4th Edition (Programmer to Programmer)__ (Paperback) David Hunter, Jeff Rafter, Joe Fawcett, Eric van der Vlist, Danny Ayers, Jon Duckett, Andrew Watt, and Linda McKinnon. Publisher: Wrox; 4 edition (May 21, 2007), Paperback: 1080 pages. ISBN-10: 0470114878, ISBN-13: 978-0470114872
-
-* __(Provided by the instructor – do not purchase) Scaffolding the New Web: Standards and Standards Policy for the Digital Economy__ by Martin C. Libicki, et al (Paperback - June 2000), RAND Corporation (June, 2000). ISBN: 0833028588 ([http://www.rand.org/pubs/monograph_reports/MR1215/index.html](http://www.rand.org/pubs/monograph_reports/MR1215/index.html))
+* __Scaffolding the New Web: Standards and Standards Policy for the Digital Economy__ by Martin C. Libicki, et al (Paperback - June 2000), RAND Corporation (June, 2000). ISBN: 0833028588 ([http://www.rand.org/pubs/monograph_reports/MR1215/index.html](http://www.rand.org/pubs/monograph_reports/MR1215/index.html))
 
 Students may also wish to read:
 
 * __Global Standards: Building Blocks for the Future__, Linda Garcia, Office of Technology Assessment  (Copies will be provided by the instructor)
-
 * __Charles F. Goldfarb's XML Handbook,__ Fifth Edition Charles F. Goldfarb, Paul Prescod Prentice Hall PTR; 5 edition (November 3, 2003), ISBN: 0130497657
-
 * "Information Technology Standards." In M.E. Williams (ed.) __Annual Review of Information Science and Technology.__ Volume 26.
-
 * __Standards Policy for Information Infrastructure__, Brian Kahnin and Janet Abbate (Eds.) MIT Press, Cambridge Mass, 1996.
 
 ## Course Overview
@@ -74,11 +65,8 @@ This course is addresses a subject which has not traditionally been a part of th
 In general, the course will be divided into four parts.
 
 * In part one, we will look at all the base technologies and the fundamental structure of the web.  We will explore both client side coding in HTML, CSS, and JavaScript.
-
 * In part two, we will look at developing backend systems utilizing Java. Here we'll leverage cloud technologies for deployment and hosting. We'll also look at the XML family of standards in depth.
-
 * In part three, we will explore web mobility and how mobile applications can leverage web technologies.
-
 * In part four, we will look dig a bit deeper into the web exploring notifications, analytics, and other backend options.
 
 ### Course Schedule
@@ -120,9 +108,6 @@ You are required to create a web application to satisfy the requirements to comp
 * Allow users to update existing data
 * Allow users to delete data and accounts
 * Do all of the above utilizing Ajax (and/or WebSockets) where appropriate.
-
-Additional requirements include:
-
 * The app must work when viewed in a modern web browser.
 * The client-side code must be HTML5 compliant (HTML, JavaScript, CSS) e.g. no Flash, Siverlight, Java Applets, etc.
 * The server-side code must be Java and utilize the Heroku java-getting-started codebase as a starting point.
@@ -137,6 +122,8 @@ Additional requirements include:
 * You must be able to demonstrate the project in person (or virtually) if called upon for grading or to answer project specific questions.
 * You must ensure that your project satisfies all of the individual items in the Courseweb rubric which will be used for grading.
 
+#### Assignment 1 Deliverables
+
 * Assignment 1.1 Getting Started (50 points)
 * Assignment 1.2 Project Proposal (50 points)
 * Assignment 1.3 Presentation tier (50 points)
@@ -144,11 +131,6 @@ Additional requirements include:
 * Assignment 1.5 Project Presentation (50 points)
 
 ### [Project 2 – Standards Assessment](#standards-assessment-project)
-
-* Assignment 2.1 Standards Assessment Proposal (10 points)
-* Assignment 2.2 Standards Assessment Bibliography (10 points)
-* Assignment 2.3 Standards Assessment Outline (10 points)
-* Assignment 2.4 Standards Assessment Paper (70 points)
 
 Carve out one area of current W3C or other web related standardization activity and develop an assessment of the state of the standardization effort.
 Select an area of W3C or other web related standardization activity. The focus of the paper should be on the way in which the standard is created, updated, and maintained and not about the technology itself. Your report should address:
@@ -164,11 +146,18 @@ Select an area of W3C or other web related standardization activity. The focus o
 * Description: What impact does the standard have on the intended target audience?
   * Assessment: What is your view of the importance and implications of the standard?
 
+#### Assignment 2 Deliverables
+
+* Assignment 2.1 Standards Assessment Proposal (10 points)
+* Assignment 2.2 Standards Assessment Bibliography (10 points)
+* Assignment 2.3 Standards Assessment Outline (10 points)
+* Assignment 2.4 Standards Assessment Paper (70 points)
+
 Your final report should include a 10-15 page paper (double spaced excluding title page and bibliography)
 
-All assignments will be graded accorded to the associated rubric listed in the courseweb. All assignments will be submitted as instructed in the corresponding courseweb item.
-
 ## Grades
+
+All assignments will be graded accorded to the associated rubric listed in the courseweb. All assignments will be submitted as instructed in the corresponding courseweb item.
 
 **Grades for all the assignments will be summed and assigned as follows:**
 
