@@ -125,10 +125,19 @@ You are required to create a web application to satisfy the requirements to comp
 #### Assignment 1 Deliverables
 
 * Assignment 1.1 Getting Started (50 points)
+  * Successfully clone, build, and deploy the getting started project.
 * Assignment 1.2 Project Proposal (50 points)
-* Assignment 1.3 Presentation tier (50 points)
-* Assignment 1.4 Full Stack Web (100 points)
-* Assignment 1.5 Project Presentation (50 points)
+  * First pass at the README.md file including project description and key features.
+* Assignment 1.3 API tier (50 points)
+  * RESTful API written in Java
+* Assignment 1.4 Data tier (50 points)
+  * Integration of RESTful API with database
+* Assignment 1.5 Presentation tier (50 points)
+  * Integration of RESTful API with website
+* Assignment 1.6 Project (100 points)
+  * Fully developed project meeting all requirements
+* Assignment 1.6 Project Presentation (50 points)
+  * Complete GitHub README.md
 
 ### [Project 2 – Standards Assessment](#standards-assessment-project)
 
