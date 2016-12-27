@@ -4,10 +4,10 @@
 * **Course:** [INFSCI2560-1020 (26292), University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
-* **GSA:** Chun-Hua Tsai (Hyman), [cht77@pitt.edu ](mailto:cht77@pitt.edu )
-  * **Office Hours**: Tue 4-6pm Wed 4-6pm or By Appointment
+* **GSA:** TBD
+  * **Office Hours**: TBDD
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560fa16/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+    * TBD
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
    * Email for 1-on-1 help, or to set up a time to meet
 
@@ -15,7 +15,7 @@
 
 This course is about the various technologies that we use to build Web applications.  It is focused on preparing you for enterprise applications and thus focuses more on Java based back ends. It also introduces you to the vagaries of information technology standards.  Standards are quantifiable metrics to which parties adhere for purposes of allowing some common ground for interchange. Some students of standards view monetary systems developed for the exchange of goods as the earliest standards. The alphabet may also be viewed as an early standard - a compatibility standard for the exchange of information.  Modern U.S. standards first appear in the manufacturing arena. The history is somewhat cloudy and many stories are told, but in most of them, mass production and the railroads play a role, e.g. the railroads required standardization on many fronts, from track gauge to time.  The World Wide Web is made possible by the adoption of standards that allow many independent systems to work together.
 
-## Course Overview
+## Course Summary
 
 This course is primarily an introduction to web technologies and standards, but it also treats standards more generally.  The course will client and server side technologies for the web.  This will include HTML, xhtml, JavaScript, CSS, servlets, JSP, J2EE, etc.  We will explore HTML 5 and the responsive design technologies.  As time permits, we will introduce both older/more fundamental technologies such as PERL and regular expressions  more advanced web technologies such as J2EE, AJAX and Android.
 
@@ -34,21 +34,20 @@ The most important learning will come from the efforts you undertake beyond the 
 ## Goals
 
 The goals of the course are:
-* To understand the base technologies that are being used in the development and deployment of information and applications to the World Wide Web.
 
-* To analyze functional needs for web systems and design web components and systems to meet these needs in a reliable way.
+* To understand the base technologies that are being used in modern development and deployment of information and applications to the World Wide Web.
 
-* To develop a standards compliant website
+* To analyze functional needs for web systems and design web components and full stack systems to meet these needs in a reliable way.
+
+* To develop a standards compliant website.
 
 * To develop major components of a website such as forms, web services, persistent stores, etc.
 
-* To understand and follow trends in the development of web technologies and standards
+* To understand and follow trends in the development of web technologies and standards including continous integration and deployment.
 
 * To define the basic characteristics of standards, define the processes by which standards are developed, and to experience the process of designing/programming information systems in accord with some standard.
 
 ## Course Materials
-
-**Course Materials**
 
 The recommended textbooks for this course are:
 
@@ -83,19 +82,20 @@ In general, the course will be divided into four parts.
 * In part four, we will look dig a bit deeper into the web exploring notifications, analytics, and other backend options.
 
 ### Course Schedule
+
 * Part 1. HTML, CSS and JavaScript
-  * Week 1.	Intro – Getting Started with Heroku
+  * Week 1. Intro – Getting Started with Heroku
     * Managing your code with GitHub
     * Continuous Deployment with Travis-CI
     * Full Stack Web Development with Heroku
   * Week 2. Web Basics
-  * Week 3.	Styling the Web with CSS
-  * Week 4.	Interactive Web with JavaScript
+  * Week 3. Styling the Web with CSS
+  * Week 4. Interactive Web with JavaScript
 * Part 2. Server-Side Development and XML
   * Week 5. Java Fundamentals & Object Oriented Programming
-  * Week 6.	Building a Backend – Web Services & JSON
+  * Week 6. Building a Backend – Web Services & JSON
   * Week 7. Enhanced Backend – XML & Schemas
-  * Week 8.	Storing the Data – Database Integration JDBC, JPA, SQL, and NoSQL
+  * Week 8. Storing the Data – Database Integration JDBC, JPA, SQL, and NoSQL
   * Week 9. Caching the Data – In Memory Databases
 * Part 3. Multiplatform Mobile App Development with Web Technologies
   * Week 10. Responsive Design & Mobility
@@ -107,33 +107,30 @@ In general, the course will be divided into four parts.
   * Week 15. Course Wrap-up
 
 ## Assignments
+
 **Late assignments will be subject to a 10% penalty per day late. Assignments submitted 7 day's after the due date will not be accepted.**
 
 The course assignments are broken down into 2 major projects with multiple assignments per project.
 
-[**Project 1 - Full Stack Web**](#full-stack-web-project)
->You are required to create a web application to satisfy the requirements to complete this class. This is an open-ended project that complements the lecture and in-class activities. This project will give you the necessary experience to hone your Web programming skills in a practical and personal manner.
+### [Project 1 - Full Stack Web](#full-stack-web-project)
 
->Minimum Project Requirements
+You are required to create a web application to satisfy the requirements to complete this class. This is an open-ended project that complements the lecture and in-class activities. This project will give you the necessary experience to hone your Web programming skills in a practical and personal manner. At a minimum, you must create a Create-Read-Update-Delete (CRUD) Full Stack Web Application that utilizes Web 2.0-style Ajax interactions. Static personal websites or even dynamic read-only sites such as weather-lookup applications do not meet the requirements. There is no way for a user to both create an account and update persisted data. More specifically, the application must:
 
->At a minimum, you must create a Create-Read-Update-Delete (CRUD) Full Stack Web Application that utilizes Web 2.0-style Ajax interactions. More specifically, the application must:
 * Allow users to create accounts and persist data
 * Allow users to update existing data
 * Allow users to delete data and accounts
 * Do all of the above utilizing Ajax (and/or WebSockets) where appropriate.
-Static personal websites or even dynamic read-only sites such as weather-lookup applications do not meet the requirements. There is no way for a user to both create an account and update persisted data.
 
->High-level requirements include:
+Additional requirements include:
+
 * The app must work when viewed in a modern web browser.
 * The client-side code must be HTML5 compliant (HTML, JavaScript, CSS) e.g. no Flash, Siverlight, Java Applets, etc.
 * The server-side code must be Java and utilize the Heroku java-getting-started codebase as a starting point.
 * All project code must be publicly hosted on your full-stack-web-project GitHub repository and successfully build through the instructor’s integration with Travis-CI.
 * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
 * All written JS should pass [JSHint](http://jshint.com).
-* Must apply "good programming style" learned in class
-* Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-* Optimize for readability.
-    * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
+* Must apply "good programming style" learned in class* Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
+* Optimize for readability. ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
 * Use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
 * The application must be hosted on Heroku.
@@ -146,18 +143,16 @@ Static personal websites or even dynamic read-only sites such as weather-lookup 
 * Assignment 1.4 Full Stack Web (100 points)
 * Assignment 1.5 Project Presentation (50 points)
 
+### [Project 2 – Standards Assessment](#standards-assessment-project)
 
-
-[**Project 2 – Standards Assessment**](#standards-assessment-project)
 * Assignment 2.1 Standards Assessment Proposal (10 points)
 * Assignment 2.2 Standards Assessment Bibliography (10 points)
 * Assignment 2.3 Standards Assessment Outline (10 points)
 * Assignment 2.4 Standards Assessment Paper (70 points)
 
->**Requirements**
+Carve out one area of current W3C or other web related standardization activity and develop an assessment of the state of the standardization effort.
+Select an area of W3C or other web related standardization activity. The focus of the paper should be on the way in which the standard is created, updated, and maintained and not about the technology itself. Your report should address:
 
->Carve out one area of current W3C or other web related standardization activity and develop an assessment of the state of the standardization effort.
->Select an area of W3C or other web related standardization activity. The focus of the paper should be on the way in which the standard is created, updated, and maintained and not about the technology itself. Your report should address:
 * Description: What is being standardized?
   * Assessment: What are the related standards and how is this different?
 * Description: What is the goal of the standard and why is it necessary?
@@ -169,50 +164,35 @@ Static personal websites or even dynamic read-only sites such as weather-lookup 
 * Description: What impact does the standard have on the intended target audience?
   * Assessment: What is your view of the importance and implications of the standard?
 
->Your final report should include a 10-15 page paper (double spaced excluding title page and bibliography)
-
+Your final report should include a 10-15 page paper (double spaced excluding title page and bibliography)
 
 All assignments will be graded accorded to the associated rubric listed in the courseweb. All assignments will be submitted as instructed in the corresponding courseweb item.
 
 ## Grades
+
 **Grades for all the assignments will be summed and assigned as follows:**
 
-<table>
-  <tr>
-    <td>Grade</td>
-    <td>Points</td>
-  </tr>
-  <tr>
-    <td>A</td>
-    <td>100-90</td>
-  </tr>
-  <tr>
-    <td>B</td>
-    <td>80-89</td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>60-79</td>
-  </tr>
-  <tr>
-    <td>F</td>
-    <td>0-59</td>
-  </tr>
-</table>
+| Grade |  Points |
+|-------|:-------:|
+| A     |  100-90 |
+| B     |   89-80 |
+| C     |   79-70 |
+| F     |    69-0 |
 
 ## Course Policies
 
 ### Academic Integrity
 
->You are expected to be fully aware of your responsibility to maintain a high quality of integrity in all of your work. All work must be your own, unless collaboration is specifically and explicitly permitted. Any unauthorized collaboration or copying will at minimum result in no credit for the affected assignment and may be subject to further action under the [University Guidelines for Academic Integrity](http://www.provost.pitt.edu/info/ai1.html). You are expected to have read and understood these Guidelines. A document discussing these guidelines was included in your orientation materials.
+You are expected to be fully aware of your responsibility to maintain a high quality of integrity in all of your work. All work must be your own, unless collaboration is specifically and explicitly permitted. Any unauthorized collaboration or copying will at minimum result in no credit for the affected assignment and may be subject to further action under the [University Guidelines for Academic Integrity](http://www.provost.pitt.edu/info/ai1.html). You are expected to have read and understood these Guidelines. A document discussing these guidelines was included in your orientation materials.
 
 ### Special Considerations
 
->If you have a disability that requires special testing accommodations or other classroom modifications, please, notify both the instructor and [Disability Resources and Services](http://www.drs.pitt.edu/) by the second week of the term. You may be asked to provide documentation of your disability to determine the appropriateness of accommodations. To notify Disability Resources and Services, call 64807890 (voice or TDD) to schedule and appointment. The office is located in the William Pitt Union, Room 216.
+If you have a disability that requires special testing accommodations or other classroom modifications, please, notify both the instructor and [Disability Resources and Services](http://www.drs.pitt.edu/) by the second week of the term. You may be asked to provide documentation of your disability to determine the appropriateness of accommodations. To notify Disability Resources and Services, call 64807890 (voice or TDD) to schedule and appointment. The office is located in the William Pitt Union, Room 216.
 
 ### Professionalism and Plagiarism
 
->There are a couple things that you need to keep in mind as you start this course.  Any documents you submit should be carefully proofread and formatted professionally.  The paper should provide all the necessary information – your name, your email address, student ID, the course, the term, the CRN, and the assignment for which the paper is submitted.  Any code that is submitted should be thoroughly tested to insure that I will be able to run it on any machine.  The project source code and executable files should both be included. A readme.md file should be included that explains any particular constraints or steps that need to be taken. ALL CODE THAT COMES FROM ANY SOURCE OTHER THAN YOUR HEAD NEEDS TO BE FULLY AND CAREFULLY MARKED.  This includes code which you have adapted from some source but which is essentially someone else’s work.  Failure to note such use is cause for a grade of 0 on the assignment and an F in the course.  All of your code should be carefully and professionally commented and explained. In both the mail note to which the project is attached and in the main file of the project, you should include:
+There are a couple things that you need to keep in mind as you start this course.  Any documents you submit should be carefully proofread and formatted professionally.  The paper should provide all the necessary information – your name, your email address, student ID, the course, the term, the CRN, and the assignment for which the paper is submitted.  Any code that is submitted should be thoroughly tested to insure that I will be able to run it on any machine.  The project source code and executable files should both be included. A readme.md file should be included that explains any particular constraints or steps that need to be taken. ALL CODE THAT COMES FROM ANY SOURCE OTHER THAN YOUR HEAD NEEDS TO BE FULLY AND CAREFULLY MARKED.  This includes code which you have adapted from some source but which is essentially someone else’s work.  Failure to note such use is cause for a grade of 0 on the assignment and an F in the course.  All of your code should be carefully and professionally commented and explained. In both the mail note to which the project is attached and in the main file of the project, you should include:
+
 * The names of all participants
 * Email addresses and student IDs
 * The course, the term, the CRN
@@ -233,8 +213,6 @@ All assignments will be graded accorded to the associated rubric listed in the c
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
-* https://twitter.com/necolas/status/291978260433219584
-* http://afeld.me/nerdery/1742468
 * [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
 * [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
@@ -267,21 +245,21 @@ All assignments will be graded accorded to the associated rubric listed in the c
 
 * code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
 * debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+  * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
+    * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
+    * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
+  * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
 ### GitHub
 
 * Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
+  * [Official GitHub Help](https://help.github.com/)
+  * [Recommended resources](http://hackerhours.org/resources.html#github)
 * GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+  * [Official site](https://pages.github.com/)
+  * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### HTML/CSS/JS Sandboxes
 
@@ -303,9 +281,3 @@ All assignments will be graded accorded to the associated rubric listed in the c
 * [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 * [w3schools](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-This repository was cloned from https://github.com/advanced-js/syllabus and modified to meet the needs of this course.
