@@ -162,7 +162,7 @@ All assignments will be graded accorded to the associated rubric listed in the c
 **Grades for all the assignments will be summed and assigned as follows:**
 
 | Grade | Points |
-|:-----:|:------:|
+|:-----:|-------:|
 | A     | 100-90 |
 | B     | 89-80  |
 | C     | 79-70  |
