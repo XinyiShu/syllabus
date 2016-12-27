@@ -1,15 +1,15 @@
 # Web Technologies and Standards Syllabus
 
 
-* **Course:** [INFSCI2560-1020 (26292), University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
+* **Course:** [INFSCI2560-1080 (24286), University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
 * **GSA:** TBD
   * **Office Hours**: TBDD
 * **Need help?**
-  * TBD
+  * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560sp17/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
     * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Email for 1-on-1 help, or to set up a time to meet
+    * Private Message for 1-on-1 help, or to set up a time to meet.
 
 ## Introduction
 
