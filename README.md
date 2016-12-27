@@ -126,6 +126,7 @@ You are required to create a web application to satisfy the requirements to comp
 
 * Assignment 1.1 Getting Started (50 points)
   * Successfully clone, build, and deploy the getting started project.
+  * Modification of the Travis-CI badge to reflect your build.
 * Assignment 1.2 Project Proposal (50 points)
   * First pass at the README.md file including project description and key features.
 * Assignment 1.3 API tier (50 points)
@@ -136,7 +137,7 @@ You are required to create a web application to satisfy the requirements to comp
   * Integration of RESTful API with website
 * Assignment 1.6 Project (100 points)
   * Fully developed project meeting all requirements
-* Assignment 1.6 Project Presentation (50 points)
+* Assignment 1.7 Project Presentation (50 points)
   * Complete GitHub README.md
 
 ### [Project 2 – Standards Assessment](#standards-assessment-project)
