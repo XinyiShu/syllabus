@@ -4,7 +4,7 @@
 * **Course:** [INFSCI2560-1080 (24286), University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
-* **GSA:** Chun-Hua Tsai [CHT77@pitt.edu](mailto:CHT77@pitt.edu)
+* **GSA:** Chun-Hua Tsai, [CHT77@pitt.edu](mailto:CHT77@pitt.edu)
   * **Office Hours**: Tuesday 11 am 1 pm
 * **Need help?**
   * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560sp17/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
